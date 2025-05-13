@@ -61,7 +61,7 @@ gcc -m32 -no-pie file.s -o output_binary
 ## 📜 Game of Life Rules
 The Game of Life is a "zero-player game" created by mathematician John Conway. Each cell on a 2D grid is either alive (1) or dead (0) and evolves based on its neighbors.
 
-#Rules:
+# Rules:
 Birth: A dead cell with exactly 3 live neighbors becomes alive.
 
 Survival: A live cell with 2 or 3 live neighbors stays alive.
