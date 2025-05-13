@@ -38,11 +38,11 @@ This project was created as a **college-level systems programming assignment**, 
 
 This repository contains **three `.s` files**, each representing a different version of the program:
 
-| File               | Description                                                  |
-|--------------------|--------------------------------------------------------------|
-| `life.s`           | Only runs the Game of Life logic and prints the final grid.  |
-| `encode_decode.s`  | Adds XOR encryption and decryption of words using a keyword. |
-| `full_io.s`        | Full program with file input/output, keyword, and evolution. |
+| File                      | Description                                                  |
+|---------------------------|--------------------------------------------------------------|
+| `generation.s`            | Only runs the Game of Life logic and prints the final grid.  |
+| `generation_encryption.s` | Adds XOR encryption and decryption of words using a keyword. |
+| `generation_decryption.s` | Full program with file input/output, keyword, and evolution. |
 
 ---
 
